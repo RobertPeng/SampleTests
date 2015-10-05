@@ -17,6 +17,7 @@
         "src/ActionTestScene.js",
         "src/ActionNewScene.js",
         "src/CocosNodeTest.js",
-        "src/LayerTest.js"
+        "src/LayerTest.js",
+        "src/NewEventManagerTest.js"
     ]
 }
