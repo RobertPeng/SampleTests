@@ -113,6 +113,7 @@ var LayerTest2 = LayerTest.extend({
         this.addChild(layer1, 1, LAYERTEST2_LAYER1_TAG);
 
         var a = 0;
+        var b = 0;
     }
 });
 
