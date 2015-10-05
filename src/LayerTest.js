@@ -111,6 +111,8 @@ var LayerTest2 = LayerTest.extend({
         layer1.y = s.height / 2;
         layer1.ignoreAnchorPointForPosition(false);
         this.addChild(layer1, 1, LAYERTEST2_LAYER1_TAG);
+
+        var a = 0;
     }
 });
 
