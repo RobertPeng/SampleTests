@@ -1,5 +1,5 @@
 /**
- * Created by zhangpeng on 15/9/28.
+ * Created by Peng on 15/9/28.
  */
 
 var ActionDemo = cc.Layer.extend({
