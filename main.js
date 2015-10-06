@@ -62,7 +62,7 @@ cc.game.onStart = function(){
     //load resources
     cc.LoaderScene.preload(g_resources, function () {
         //cc.director.runScene(new NodeTestScene());
-        new EventDispatcherTestScene().runThisTest();
+        new CocosBuilderTestScene().runThisTest();
     }, this);
 };
 cc.game.run();

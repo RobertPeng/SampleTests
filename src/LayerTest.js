@@ -1,6 +1,6 @@
 /**
  *
- * Created by Peng on 15/10/3.
+ * Created by John on 15/10/3.
  */
 
 cc.TAG_LAYER = 1;

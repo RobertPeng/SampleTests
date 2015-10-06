@@ -1,5 +1,5 @@
 /**
- * Created by Peng on 15/10/5.
+ * Created by John on 15/10/5.
  */
 
 var eventDispatcherSceneIdx = -1;
@@ -132,7 +132,14 @@ var CustomEventTest =  EventDispatcherTestDemo.extend({
     }
 });
 
+var RandomTest = EventDispatcherTestDemo.extend({
+    onEnter:function() {
+        this._super();
+    }
+});
+
 var arrayOfEventDispatcherTest = [
+    RandomTest,
     CustomEventTest
 ];
 

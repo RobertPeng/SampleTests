@@ -8,7 +8,7 @@
     "renderMode" : 0,
     "engineDir":"frameworks/cocos2d-html5",
 
-    "modules" : ["cocos2d"],
+    "modules" : ["cocos2d", "extensions"],
 
     "jsList" : [
         "src/resource.js",
@@ -18,6 +18,12 @@
         "src/ActionNewScene.js",
         "src/CocosNodeTest.js",
         "src/LayerTest.js",
-        "src/NewEventManagerTest.js"
+        "src/NewEventManagerTest.js",
+        "src/CocosBuilderTest/CocosBuilderTest.js",
+        "src/CocosBuilderTest/HelloCocosBuilder/HelloCocosBuilderLayer.js",
+        "src/CocosBuilderTest/HeaderTest/HeaderTestLayer.js",
+        "src/CocosBuilderTest/MenuTest/MenuTestLayer.js",
+        "src/CocosBuilderTest/SpriteTest/SpriteTestLayer.js",
+        "src/CocosBuilderTest/ButtonTest/ButtonTestLayer.js"
     ]
 }
