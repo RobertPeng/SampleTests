@@ -77,7 +77,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>ccb/flower.jpg</string>
+							<string>flower.jpg</string>
 						</array>
 					</dict>
 					<dict>
@@ -149,6 +149,8 @@
 				<false/>
 			</dict>
 		</array>
+		<key>selected</key>
+		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>

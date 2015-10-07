@@ -18,6 +18,6 @@ cc.BuilderReader.registerController("TestButtonsLayer", {
             }
             return "";
         })();
-        this["mCCControlEventLabel"].setString(str);
+        this["mCCControlEventLabelTest"].setString(str);
     }
 });

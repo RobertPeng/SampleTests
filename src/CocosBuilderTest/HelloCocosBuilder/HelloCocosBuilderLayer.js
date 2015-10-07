@@ -31,14 +31,14 @@ cc.BuilderReader.registerController("HelloCocosBuilderLayer", {
     },
 
     "onParticleSystemTestClicked" : function() {
-
+        this._openTest("res/ccbpub/ccb/TestParticleSystems.ccbi");
     },
 
     "onScrollViewTestClicked" : function() {
-
+        this._openTest("res/ccbpub/ccb/TestScrollViews.ccbi");
     },
 
     "onTimelineCallbackSoundClicked" : function() {
-
+        this._openTest("res/ccbpub/ccb/TestTimelineCallback.ccbi");
     }
 });

@@ -510,8 +510,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>90</real>
 							<real>10</real>
+							<real>90</real>
 							<integer>4</integer>
 						</array>
 					</dict>
@@ -555,10 +555,12 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>ccb/ccbParticleStars.png</string>
+							<string>ccbParticleStars.png</string>
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 				<key>seqExpanded</key>
 				<true/>
 			</dict>
@@ -608,7 +610,7 @@
 						<key>type</key>
 						<string>CCBFile</string>
 						<key>value</key>
-						<string>ccb/ccb/TestHeader.ccb</string>
+						<string>ccb/TestHeader.ccb</string>
 					</dict>
 				</array>
 			</dict>
@@ -690,8 +692,6 @@
 				<true/>
 			</dict>
 		</array>
-		<key>selected</key>
-		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
@@ -778,9 +778,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>0.85765171051025391</real>
+			<real>0.0</real>
 			<key>position</key>
-			<real>3</real>
+			<real>1</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
@@ -803,7 +803,7 @@
 						<integer>9</integer>
 						<key>value</key>
 						<array>
-							<string>ccb/gem-0.wav</string>
+							<string>gem-0.wav</string>
 							<real>1</real>
 							<real>0.0</real>
 							<real>1</real>
@@ -821,7 +821,7 @@
 						<integer>9</integer>
 						<key>value</key>
 						<array>
-							<string>ccb/gem-1.wav</string>
+							<string>gem-1.wav</string>
 							<real>1</real>
 							<real>0.0</real>
 							<real>1</real>

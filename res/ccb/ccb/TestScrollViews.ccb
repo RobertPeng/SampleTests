@@ -174,8 +174,8 @@
 						<string>Point</string>
 						<key>value</key>
 						<array>
-							<real>0.0</real>
-							<real>0.0</real>
+							<real>0.5</real>
+							<real>0.5</real>
 						</array>
 					</dict>
 					<dict>
@@ -200,7 +200,7 @@
 						<key>type</key>
 						<string>CCBFile</string>
 						<key>value</key>
-						<string>ccb/ccb/TestScrollViewsContentA.ccb</string>
+						<string>ccb/TestScrollViewsContentA.ccb</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -300,7 +300,7 @@
 						<key>type</key>
 						<string>CCBFile</string>
 						<key>value</key>
-						<string>ccb/ccb/TestScrollViewsContentA.ccb</string>
+						<string>ccb/TestScrollViewsContentA.ccb</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -374,9 +374,11 @@
 						<key>type</key>
 						<string>CCBFile</string>
 						<key>value</key>
-						<string>ccb/ccb/TestHeader.ccb</string>
+						<string>ccb/TestHeader.ccb</string>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -456,8 +458,6 @@
 				<true/>
 			</dict>
 		</array>
-		<key>selected</key>
-		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>

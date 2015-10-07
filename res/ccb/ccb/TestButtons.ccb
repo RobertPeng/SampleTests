@@ -794,9 +794,9 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>238</real>
-							<real>129</real>
-							<integer>0</integer>
+							<real>49.583332061767578</real>
+							<real>40.3125</real>
+							<integer>4</integer>
 						</array>
 					</dict>
 					<dict>
@@ -848,6 +848,18 @@
 						<array>
 							<real>12</real>
 							<integer>0</integer>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>color</string>
+						<key>type</key>
+						<string>Color3</string>
+						<key>value</key>
+						<array>
+							<integer>41</integer>
+							<integer>249</integer>
+							<integer>10</integer>
 						</array>
 					</dict>
 					<dict>

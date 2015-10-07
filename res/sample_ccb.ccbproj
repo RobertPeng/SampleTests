@@ -33,13 +33,13 @@
 	<key>publishDirectoryAndroid</key>
 	<string>Published-Android</string>
 	<key>publishDirectoryHTML5</key>
-	<string>Published-HTML5</string>
+	<string>ccbpub</string>
 	<key>publishEnabledAndroid</key>
 	<false/>
 	<key>publishEnabledHTML5</key>
-	<false/>
-	<key>publishEnablediPhone</key>
 	<true/>
+	<key>publishEnablediPhone</key>
+	<false/>
 	<key>publishResolutionHTML5_height</key>
 	<integer>320</integer>
 	<key>publishResolutionHTML5_scale</key>

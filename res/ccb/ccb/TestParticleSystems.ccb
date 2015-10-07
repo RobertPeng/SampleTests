@@ -415,7 +415,7 @@
 						<key>type</key>
 						<string>Texture</string>
 						<key>value</key>
-						<string>ccb/particle-fire.png</string>
+						<string>particle-fire.png</string>
 					</dict>
 				</array>
 			</dict>
@@ -679,7 +679,7 @@
 						<key>type</key>
 						<string>Texture</string>
 						<key>value</key>
-						<string>ccb/particle-snow.png</string>
+						<string>particle-snow.png</string>
 					</dict>
 				</array>
 			</dict>
@@ -961,9 +961,11 @@
 						<key>type</key>
 						<string>CCBFile</string>
 						<key>value</key>
-						<string>ccb/ccb/TestHeader.ccb</string>
+						<string>ccb/TestHeader.ccb</string>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -1043,8 +1045,6 @@
 				<true/>
 			</dict>
 		</array>
-		<key>selected</key>
-		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>

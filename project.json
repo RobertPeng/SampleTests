@@ -24,6 +24,9 @@
         "src/CocosBuilderTest/HeaderTest/HeaderTestLayer.js",
         "src/CocosBuilderTest/MenuTest/MenuTestLayer.js",
         "src/CocosBuilderTest/SpriteTest/SpriteTestLayer.js",
-        "src/CocosBuilderTest/ButtonTest/ButtonTestLayer.js"
+        "src/CocosBuilderTest/ButtonTest/ButtonTestLayer.js",
+        "src/CocosBuilderTest/ParticleTest/ParticleTestLayer.js",
+        "src/CocosBuilderTest/ScrollViewTest/ScrollViewTestLayer.js",
+        "src/CocosBuilderTest/TimelineCBTest/TimelineCBTestLayer.js"
     ]
 }
