@@ -15,9 +15,14 @@ var res = {
     s_pathF2                : "res/Images/f2.png",
     s_fire                  : "res/Images/fire.png",
 
+    s_back1_png             : "res/Images/background1.png",
+    s_back2_png             : "res/Images/background2.png",
     s_back3_png             : "res/Images/background3.png",
     s_playNormal            : "res/Images/btn-play-normal.png",
-    s_playSelect            : "res/Images/btn-play-selected.png"
+    s_playSelect            : "res/Images/btn-play-selected.png",
+
+    s_ccb_grossini_png      : "res/ccb/grossini-generic.png",
+    s_ccb_grossini_plist    : "res/ccb/grossini-generic.plist"
 };
 
 var g_resources = [];

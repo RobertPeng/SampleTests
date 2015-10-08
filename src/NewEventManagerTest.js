@@ -135,6 +135,9 @@ var CustomEventTest =  EventDispatcherTestDemo.extend({
 var RandomTest = EventDispatcherTestDemo.extend({
     onEnter:function() {
         this._super();
+
+        var foo = {0:'hello',1:'world',length:2,slice:Array.prototype.slice};
+        console.log(Array.prototype.slice.call(foo, 0));
     }
 });
 

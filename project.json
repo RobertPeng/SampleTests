@@ -27,6 +27,7 @@
         "src/CocosBuilderTest/ButtonTest/ButtonTestLayer.js",
         "src/CocosBuilderTest/ParticleTest/ParticleTestLayer.js",
         "src/CocosBuilderTest/ScrollViewTest/ScrollViewTestLayer.js",
-        "src/CocosBuilderTest/TimelineCBTest/TimelineCBTestLayer.js"
+        "src/CocosBuilderTest/TimelineCBTest/TimelineCBTestLayer.js",
+        "src/ClippingNodeTest/ClippingNodeTest.js"
     ]
 }
